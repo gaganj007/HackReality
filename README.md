@@ -11,3 +11,15 @@ This sword was forged by a warrior of might: one who only found peace in the cha
 
 
 Note: All texture were found in Google Images
+
+Sword Texture: https://www.google.com/search?q=metal+texture+sword&tbm=isch&ved=2ahUKEwjTiurT27zvAhXMBt8KHaLKB24Q2-cCegQIABAA&oq=metal&gs_lcp=CgNpbWcQARgAMgQIIxAnMgQIIxAnMgQIABBDMgQIABBDMgQIABBDMgcIABCxAxBDMgQIABBDMgQIABBDMgQIABBDMgQIABBDOgUIABCxAzoCCABQki1YnjFg5TpoAHAAeACAAV6IAcEDkgEBNZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=KclUYJPSEsyN_AailZ_wBg&bih=722&biw=1536#imgrc=rCxCPZO4LFJQ-M&imgdii=rAlpVK7n6gyAtM
+
+Dirt Texture: https://www.google.com/search?q=dirt+texture+&tbm=isch&ved=2ahUKEwjm8aeq1LjvAhUTB1MKHR7qD_sQ2-cCegQIABAA&oq=dirt+texture+&gs_lcp=CgNpbWcQAzIECCMQJzIFCAAQsQMyAggAMgIIADICCAAyBAgAEEMyAggAMgIIADICCAAyAggAUJuqBFibqgRgm60EaABwAHgAgAFciAFckgEBMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=nKhSYOazDpOOzAKe1L_YDw&bih=722&biw=1536&rlz=1C1CHBF_enUS917US917#imgrc=yNKYMCafmMnvtM
+
+Sky Texture: https://www.google.com/search?q=sky+texture&tbm=isch&ved=2ahUKEwiO3oe40bjvAhVDmVMKHacrDLkQ2-cCegQIABAA&oq=sky+texture&gs_lcp=CgNpbWcQAzIHCAAQsQMQQzIECAAQQzIECAAQQzIECAAQQzICCAAyAggAMgIIADICCAAyAggAMgIIADoGCAAQBxAeUI-gAViZpQFg4qYBaABwAHgAgAFQiAGgApIBATSYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=k6VSYM7ILsOyzgKn17DICw&bih=722&biw=1536&rlz=1C1CHBF_enUS917US917#imgrc=t8YfLSOzYibofM
+
+Leather Texture: https://www.google.com/search?q=red+leather+texture&tbm=isch&hl=en&chips=q:red+leather+texture,g_1:deep+red:3SfemSqJ_5E%3D&rlz=1C1CHBF_enUS917US917&sa=X&ved=2ahUKEwjCnrb7zrjvAhWJl1MKHcRKBmwQ4lYoA3oECAEQHw&biw=1519&bih=722#imgrc=uyys5FS6VFwWLM
+
+Bronze Texture: https://www.google.com/search?q=bronze+metal+texture&tbm=isch&hl=en&chips=q:bronze+metal+texture,g_1:aged+bronze:otTJhJ28eT8%3D&rlz=1C1CHBF_enUS917US917&sa=X&ved=2ahUKEwilzoXfzrjvAhXOBFMKHYq8AUkQ4lYoBHoECAEQIQ&biw=1519&bih=722#imgrc=P3m8nYTJ1KLSjM&imgdii=6dGJWBtATvs0MM
+
+
